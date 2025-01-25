@@ -17,6 +17,7 @@ build-backend = "poetry.core.masonry.api"
 
 [tool.poetry.group.dev.dependencies]
 ruff = "^0.9.3"
+ipdb = "^0.13.13"
 
 [tool.ruff]
 line-length = 79
